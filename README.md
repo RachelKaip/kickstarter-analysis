@@ -2,8 +2,8 @@
 ## Looking deep into the history of Kickstarter campaigns to learn what makes for a successful campaign.
 ---
 # Visualizations
-## ![parentcategoryoutcomespivotchart](Users/Rachel/msu/ClassFolder/Projetcs/Mod1CrowdFundingProject/parentcategoryoutcomespivotchart.png)
-## ![outcomesbylaunchdatechart](Users/Rachel/msu/ClassFolder/Projetcs/Mod1CrowdFundingProject/outcomesbylaunchdatechart.png)
+## ![parentcategoryoutcomespivotchart](Local Disk/Users/Rachel/msu/ClassFolder/Projetcs/Mod1CrowdFundingProject/parentcategoryoutcomespivotchart.png)
+## ![outcomesbylaunchdatechart](Local Disk/Users/Rachel/msu/ClassFolder/Projetcs/Mod1CrowdFundingProject/outcomesbylaunchdatechart.png)
 ---
 # Reccomendations
 * Aim to launch your campaign between April and June
